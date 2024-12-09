@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("tweets")
 
 # Google Sheets API Configuration
-API_KEY = "AIzaSyBHrlWiCscEPDW0JtgJ27B3sgLnUe_C14Y"
+API_KEY = "your api key"
 API_BASE_URL = "https://sheets.googleapis.com/v4/spreadsheets"
 SPREADSHEET_ID = "1N4FhhBFXwRw2v_dnepaEUMUvRnV3rZkWvQTGkA0XlzE"
 SHEET_NAME = "Sheet1"
